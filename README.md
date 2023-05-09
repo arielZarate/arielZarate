@@ -4,7 +4,7 @@
 
 
 <div>
- <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663382/gitHub%20no%20borrar/20190219_110109_iqggmb.jpg" heiht="300px" width="200px"  />
+ <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663382/gitHub%20no%20borrar/20190219_110109_iqggmb.jpg" heiht="300px" width="200px"   alt="mi foto perfil"/>
  </div>
 
 #### Soy un desarrollador FullStack, vengo programando hace varios años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥
@@ -78,22 +78,18 @@ https://chiccloset-service.web.app/
 
 <br/> 
 
-## Puedes encontrarme en.. 
+## Puedes encontrarme en 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ariel-zarate-0959184b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/https://github.com/arielZarate" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
+<div>
+ <h4>Telefono: <img  src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663771/gitHub%20no%20borrar/wsp_llvvby.png"   heiht="50px" width="50px" alt="miwsp" />  </h4>  
+</div>
 
-<br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
 
 
 ## Recent Blog Posts  
