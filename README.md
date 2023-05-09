@@ -4,22 +4,10 @@
 
 ### Soy un desarrollador FullStack, vengo programando hace varios años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥
  
-  - 🔭Actualmente estoy trabajando en un proyecto ecommerce 
-https://github.com/arielZarate/Electroventas   
-  
-
-- 👁 Recientemente finalize otro proyecto en el cual colabore en un equipo de desarrolladores , lo cuall entregamos un eccomerce de venta de prendas 
-https://chiccloset-service.web.app/
- https://github.com/rdtaipe/Henry-PF  
-  
-
--   
-  
-
-<br/>  
+ 
 
 
-## Mis habilidades 
+## Tecnologias que manejo , vamos creciendo 🚀🚀
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,6 +59,19 @@ https://chiccloset-service.web.app/
 
 <br/>  
 
+
+## Proyectos 
+  - 🔭Actualmente estoy trabajando en un proyecto ecommerce 
+https://github.com/arielZarate/Electroventas   
+  
+
+- 👁 Recientemente finalize otro proyecto en el cual colabore en un equipo de desarrolladores , lo cuall entregamos un eccomerce de venta de prendas 
+https://chiccloset-service.web.app/
+ https://github.com/rdtaipe/Henry-PF  
+  
+  
+
+<br/> 
 
 ## Puedes encontrarme en.. 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ariel-zarate-0959184b/" target="_blank">
