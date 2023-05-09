@@ -1,6 +1,6 @@
 
  
-#  Hola!!mi nombre es  Ariel Zarate
+#  Hola!! Mi nombre es  Ariel Zarate. 
 
 
 <div>
@@ -106,7 +106,8 @@
 
 
 ## Mis Hobbies  
-
+   #### Mis pasatiempos favoritos incluyen el bushcraft, viajar y estar en el campo. Me encanta pasar tiempo al aire libre y aprender técnicas de supervivencia en la naturaleza. 
+   ####  Mi pasatiempo secundario es leer o estar programando con nuevas tecnologias 😎
 
 
 <br/>  
