@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">Hola soy Ariel , un desarrollador fullStack  👨‍💻 
+ 
+# <div align="center">Hola soy Ariel Zarate!!  👨‍💻 
       me estoy especializando desde 2018, 
   recientemente egrese del bootcamp Henry  🚀
    </div>  
