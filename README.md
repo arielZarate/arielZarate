@@ -85,8 +85,8 @@ https://chiccloset-service.web.app/
 <a href="https://github.com/arielZarate" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<span> <img  src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663771/gitHub%20no%20borrar/wsp_llvvby.png"   heiht="50px" width="50px" alt="miwsp" /> <h4>  (+54)351 1522266656 cba </h4>
-</span>
+<div> <img  src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663771/gitHub%20no%20borrar/wsp_llvvby.png"   heiht="50px" width="50px" alt="miwsp" /> <h4>  (+54)351 1522266656 cba </h4>
+</div>
 
 
 
