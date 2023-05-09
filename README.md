@@ -7,12 +7,12 @@
  <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663382/gitHub%20no%20borrar/20190219_110109_iqggmb.jpg" heiht="300px" width="200px"   alt="mi foto perfil"/>
  </div>
 
-#### Soy un desarrollador FullStack, vengo programando hace varios años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥
+#### Soy un desarrollador FullStack, vengo programando hace un par de años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥
  
  
 
 
-### Tecnologias que manejo , vamos creciendo 🚀🚀
+### Tecnologias que manejo  🚀🚀
 <table><tr><td valign="top" width="33%">
 
 
@@ -65,14 +65,23 @@
 <br/>  
 
 
-## Proyectos 
-  - 🔭Actualmente estoy trabajando en un proyecto ecommerce 
-https://github.com/arielZarate/Electroventas   
+## Proyectos en proceso 🧭
+  - 🔭Actualmente estoy trabajando en un proyecto mediano de tipo ecommerce para venta de productos electricos
+  - tiempo de finalizacion unos 4 meses 
+  - Tecnologias que usar React | express | mysql  integracion de mercado pago , cloudinary , jsonwebtoken 
+  - Lenguaje javascript
+  -https://github.com/arielZarate/Electroventas   (git-Hub)
   
 
-- 👁 Recientemente finalize otro proyecto en el cual colabore en un equipo de desarrolladores , lo cuall entregamos un eccomerce de venta de prendas 
-https://chiccloset-service.web.app/
- https://github.com/rdtaipe/Henry-PF  
+## Proyectos Finalizados ⚡
+- 👁 Recientemente finalize otro proyecto en el cual colabore en un equipo de desarrolladores , 
+- El proyecto era un eccomerce de venta de prendas 
+- Link de la pagina  https://chiccloset-service.web.app/
+- Link del repositorio https://github.com/rdtaipe/Henry-PF  
+ ####Images 
+ <span> 
+ <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683665076/gitHub%20no%20borrar/p1_l4v7qu.png" alt="p1" width="200px"  height="200px" />
+ </span>
   
   
 
