@@ -7,9 +7,10 @@
  <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663382/gitHub%20no%20borrar/20190219_110109_iqggmb.jpg" heiht="300px" width="200px"   alt="mi foto perfil"/>
  </div>
 
-#### Soy un desarrollador FullStack, vengo programando hace un par de años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥
+#### Soy un desarrollador FullStack
  
- 
+####
+ vengo programando hace un par de años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥ , puedo realizar todo tipo de aplicaciones y puedo creer nuevas en base a otras tecnologias 
 
 
 ### Tecnologias que manejo  🚀🚀
@@ -74,7 +75,7 @@
   
 
 ## Proyectos Finalizados ⚡
-- 👁 Recientemente finalize otro proyecto en el cual colabore en un equipo de desarrolladores , 
+- Recientemente finalize otro proyecto en el cual colabore en un equipo de desarrolladores , 
 - El proyecto era un eccomerce de venta de prendas 
 - Link de la pagina  https://chiccloset-service.web.app/
 - Link del repositorio https://github.com/rdtaipe/Henry-PF  
