@@ -4,7 +4,7 @@
 
 
 <div>
- <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663382/gitHub%20no%20borrar/20190219_110109_iqggmb.jpg"  />
+ <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663382/gitHub%20no%20borrar/20190219_110109_iqggmb.jpg" heiht="300px" width="200px"  />
  </div>
 
 #### Soy un desarrollador FullStack, vengo programando hace varios años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥
