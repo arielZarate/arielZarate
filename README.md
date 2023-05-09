@@ -1,12 +1,8 @@
 
  
-# <div align="center">Hola soy Ariel Zarate!!  👨‍💻 
-      me estoy especializando desde 2018, 
-  recientemente egrese del bootcamp Henry  🚀
-   </div>  
-  
-
-- 🔭Actualmente estoy trabajando en un proyecto ecommerce 
+#  Hola soy Ariel Zarate!!  
+ 
+  - 🔭Actualmente estoy trabajando en un proyecto ecommerce 
 https://github.com/arielZarate/Electroventas   
   
 
