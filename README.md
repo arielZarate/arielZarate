@@ -3,15 +3,14 @@
 </div>  
   
 
-### <div align="center">Hola soy Ariel , un desarrollador fullStack  👨‍💻 , me estoy especializando desde 2018, recientemente egrese del bootcamp Henry  🚀</div>  
+### <div align="center">Hola soy Ariel , un desarrollador fullStack  👨‍💻 
+      me estoy especializando desde 2018, 
+  recientemente egrese del bootcamp Henry  🚀
+   </div>  
   
 
 - 🔭Actualmente estoy trabajando en un proyecto ecommerce 
 https://github.com/arielZarate/Electroventas   
-  
-  
-
--   
   
 
 - 👁 Recientemente finalize otro proyecto en el cual colabore en un equipo de desarrolladores , lo cuall entregamos un eccomerce de venta de prendas 
@@ -25,7 +24,7 @@ https://chiccloset-service.web.app/
 <br/>  
 
 
-## My Skill Set  
+## Mis habilidades 
 <table><tr><td valign="top" width="33%">
 
 
