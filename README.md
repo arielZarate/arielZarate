@@ -3,10 +3,6 @@
 #  Hola!! Mi nombre es  Ariel Zarate. 
 
 
-<div>
- <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683663382/gitHub%20no%20borrar/20190219_110109_iqggmb.jpg" heiht="300px" width="200px"   alt="mi foto perfil"/>
- </div>
-
 #### Soy un desarrollador FullStack
  
 ####
@@ -105,8 +101,8 @@
 
 
 
-## Mis Hobbies  
-   #### Mis pasatiempos favoritos incluyen el bushcraft, viajar y estar en el campo. Me encanta pasar tiempo al aire libre y aprender técnicas de supervivencia en la naturaleza. 
+## Mis Hobbies  🔥🥂🏍✈🚍🌍
+   ####  Mis pasatiempos favoritos incluyen el bushcraft, viajar y estar en el campo. Me encanta pasar tiempo al aire libre y aprender técnicas de supervivencia en la naturaleza. 
    ####  Mi pasatiempo secundario es leer o estar programando con nuevas tecnologias 😎
 
 
