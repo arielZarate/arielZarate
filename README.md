@@ -66,7 +66,7 @@
 
 
 ## Proyectos en proceso 🧭
-  - 🔭Actualmente estoy trabajando en un proyecto mediano de tipo ecommerce para venta de productos electricos
+  - Actualmente estoy trabajando en un proyecto mediano de tipo ecommerce para venta de productos electricos
   - tiempo de finalizacion unos 4 meses 
   - Tecnologias que usar React | express | mysql  integracion de mercado pago , cloudinary , jsonwebtoken 
   - Lenguaje javascript
@@ -78,9 +78,13 @@
 - El proyecto era un eccomerce de venta de prendas 
 - Link de la pagina  https://chiccloset-service.web.app/
 - Link del repositorio https://github.com/rdtaipe/Henry-PF  
- ####Images 
+ #### Images 
  <span> 
- <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683665076/gitHub%20no%20borrar/p1_l4v7qu.png" alt="p1" width="200px"  height="200px" />
+ <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683665076/gitHub%20no%20borrar/p1_l4v7qu.png" alt="p1" width="400px"  height="200px" />
+ <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683665076/gitHub%20no%20borrar/p2_tkwxi6.png" alt="p1" width="400px"  height="200px" />
+ <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683665075/gitHub%20no%20borrar/p4_zwmyux.png" alt="p1" width="400px"  height="200px" />
+ <img src="https://res.cloudinary.com/dk4wovfd4/image/upload/v1683665076/gitHub%20no%20borrar/p3_rzlpcv.png" alt="p1" width="400px"  height="200px" />
+ 
  </span>
   
   
