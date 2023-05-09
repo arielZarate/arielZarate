@@ -1,6 +1,8 @@
 
  
-#  Hola soy Ariel Zarate!!  
+#  Hola!!mi nombre es  Ariel Zarate
+
+## Soy un desarrollador FullStack, vengo programando hace varios años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥
  
   - 🔭Actualmente estoy trabajando en un proyecto ecommerce 
 https://github.com/arielZarate/Electroventas   
