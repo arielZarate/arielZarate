@@ -2,11 +2,10 @@
  
 #  Hola!! Mi nombre es  Ariel Zarate. 
 
-
-### Soy un desarrollador FullStack 
- 
-####
- vengo programando hace un par de años pero me he dedicado a esto mi tiempo completo hace 2 años aproximadamente de manera profesional , paso de ser un gusto a ser mi trabajo ♥ , puedo realizar todo tipo de aplicaciones y puedo crear nuevas en base a otras tecnologias logrando integrar servicios ya utilizados, o mejorar /migrar app viejas a nuevas tecnologias aumentando la performance , y la experiencia de los clientes en el uso de la tecnologia   
+### Acerca de mi
+Soy un desarrollador fullstack, capacitandome y programando desde 2020, empezó por gusto y decidí estudiar Programación web avanzado en la Universidad Tecnologica nacional (UTN), donde aprendí a programar fullstack con nodejs, Angular8 , express. Después me inscribí al bootcamp soyhenry donde desarrollé un ecommerce, trabajando en equipo con 8 desarrolladores, usando metodología SCRUM. 
+El ecommerce de ropa se desarrolló con las tecnologias Mongo Express React Node (MERN), cuenta con integraciones de aut0 , mercado pago y cloudinary.
+Puedo realizar todo tipo de aplicaciones y crear nuevas integradas a servicios ya utilizados, también tengo experiencia en migrar aplicaciones a nuevas tecnologías aumentando la performance, y mejorando el Ux Ui 
 
 
 ### Tecnologias que manejo  🚀🚀
