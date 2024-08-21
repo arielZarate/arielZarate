@@ -61,12 +61,37 @@ Puedo realizar todo tipo de aplicaciones y crear nuevas integradas a servicios y
 <br/>  
 
 
-## Proyectos en proceso 🧭
+
+
+## Parking (sistema gestor de estadia de vehiculos) 🧭
+  - Actualmente estoy trabajando en este proyecto , en la cual va en la fase de desarrollo en el backend
+  - tiempo de finalizacion : 1 mes, 
+  - Tecnologias : React con Nextjs y typescript | mysql , integracion de mercado pago para el pago de abonados  
+  - En el backend: java con Springboot ,Data-Jpa , manejo de patrones , diagramas de clases, jsonwebtoken con spring security aun no definido  
+  - https://github.com/arielZarate/projectParkingJavaReact
+
+  
+
+
+## Mascotas (proyecto comnitario), en proceso 🧭
+  - estoy trabajando en un proyecto comunitario para la busqueda y reenucnetro de mascotas y sus dueños 
+  - tiempo de finalizacion : aun  no definido, 
+  - Tecnologias que usar React | express | mysql  integracion de mercado pago , cloudinary , jsonwebtoken 
+  - Lenguaje Typescript
+  -https://adopta.vercel.app/  pagina web
+  - El proyecto  es sin fines de lucro , por lo tanto lo hago cuando tengo un lugar libre _
+  
+  
+
+
+
+## Electroventas 🧭
   - Actualmente estoy trabajando en un proyecto mediano de tipo ecommerce para venta de productos electricos
   - tiempo de finalizacion unos 4 meses 
   - Tecnologias que usar React | express | mysql  integracion de mercado pago , cloudinary , jsonwebtoken 
   - Lenguaje javascript
   -https://github.com/arielZarate/Electroventas   (git-Hub)
+  - Se corto el proyecto por falta de presupuesto
   
 
 ## Proyectos Finalizados ⚡
