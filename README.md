@@ -73,7 +73,7 @@ Puedo realizar todo tipo de aplicaciones y crear nuevas integradas a servicios y
   
 
 
-## Mascotas (proyecto comnitario), en proceso 🧭
+## Mascotas (proyecto comunitario), en proceso 🧭
   - estoy trabajando en un proyecto comunitario para la busqueda y reenucnetro de mascotas y sus dueños 
   - tiempo de finalizacion : aun  no definido, 
   - Tecnologias que usar React | express | mysql  integracion de mercado pago , cloudinary , jsonwebtoken 
@@ -81,17 +81,6 @@ Puedo realizar todo tipo de aplicaciones y crear nuevas integradas a servicios y
   -https://adopta.vercel.app/  pagina web
   - El proyecto  es sin fines de lucro , por lo tanto lo hago cuando tengo un lugar libre _
   
-  
-
-
-
-## Electroventas 🧭
-  - Actualmente estoy trabajando en un proyecto mediano de tipo ecommerce para venta de productos electricos
-  - tiempo de finalizacion unos 4 meses 
-  - Tecnologias que usar React | express | mysql  integracion de mercado pago , cloudinary , jsonwebtoken 
-  - Lenguaje javascript
-  -https://github.com/arielZarate/Electroventas   (git-Hub)
-  - Se corto el proyecto por falta de presupuesto
   
 
 ## Proyectos Finalizados ⚡
