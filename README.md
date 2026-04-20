@@ -1,26 +1,44 @@
 # ¡Hola! Soy Ariel Zarate 👋
 
-### 🚀 Fullstack Developer | Backend Specialist | Architecture Enthusiast
+### 🚀 Fullstack Developer | Backend Engineer | Fintech & Architecture Specialist | AI & GenAI Explorer
 
-Desarrollador Fullstack con sólida base técnica iniciada en 2020. Formado en **Programación Web Avanzada (UTN)**, me especializo en construir sistemas escalables utilizando el ecosistema de **Java/Kotlin** y **Node.js**. 
+Ingeniero de software con sólida experiencia en el ecosistema **JVM (Java/Kotlin)** y el stack **Modern JS (TypeScript, React, Node)**. Mi especialidad es construir servicios altamente escalables para el sector **Fintech**, garantizando la integridad de los datos y el cumplimiento de estándares de arquitectura limpia (**Clean Architecture**).
 
-Tengo experiencia trabajando en equipos bajo metodología **SCRUM**, integrando servicios de terceros (Pasarelas de pago, Auth0, Cloudinary) y optimizando el rendimiento de aplicaciones mediante migraciones tecnológicas y buenas prácticas de arquitectura.
-
+Actualmente, potencio el ciclo de vida de desarrollo integrando **Agentes de IA** y modelos LLM de código abierto (**OpenCode / Client IA**) para optimizar la eficiencia y la calidad del código.
 ---
 
-### 🛠️ Tecnologías que manejo
+### 🚀 Perfil Profesional & Core Expertise
 
-| Frontend | Backend | DevOps & Tools |
+* **🏦 Fintech & Resilient Engineering:** Implementación de flujos transaccionales con control de **Idempotencia** (Caffeine/Redis), patrones **Retry/Circuit Breaker** e integraciones críticas con **Prisma, Coelsa y Western Union**.
+* **🏗️ Architecture & Patterns:** Aplicación rigurosa de **Clean Architecture** y **Arquitectura Hexagonal**. Experto en diseño por capas: **Domain Model, Repositories, Mappers y DTOs**.
+* **🤖 AI-Driven Development:** Integración de flujos autónomos mediante agentes de IA. Uso de motores LLM como **OpenCode** y **Client IA** para optimización de código y análisis técnico.
+* **🔭 Observabilidad & Infra:** Monitoreo con **Prometheus, Grafana y Loki**. Gestión de secretos en **Azure Key Vault** y despliegues GitOps con **Argo CD**.
+* **✅ Ciclo de Vida (SDLC):** Testing en entornos de **Dev, Stage y Pre-prod**, operando bajo **SCRUM** (Sprints de 15 días) con Jira y Confluence.
+
+---
+### 🛠️ Stack Tecnológico & Ecosystem
+
+| **Backend & Core** | **Frontend & Modern JS** | **Cloud, DevOps & AI** |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
+| **Frameworks:** Spring Boot 3, Express, Next.js | **State:** Redux, Context API, Hooks | **AI:** OpenCode LLM, Client IA |
+| **Data:** JPA, Hibernate, JPQL, Liquibase | **Styling:** Tailwind CSS, Material UI | **Observability:** Prometheus, Grafana, Loki |
+| **DBs:** PostgreSQL, MySQL, MongoDB | **Build:** NPM, NPX, Maven, Gradle | **CI/CD:** GitHub Actions, Azure Pipelines |
+
+### 🧪 Testing & Quality Assurance
+* **Kotlin:** Kotest & MockK.
+* **Java:** JUnit 5, Mockito & AssertJ.
+* **Node/JS:** Jest & Supertest (Integration Testing).
+* **Standards:** Manejo de errores bajo **RFC 7807** y Logs estructurados con **Logger**.
+
+### ⚙️ Engineering Workflow
+* **Methodologies:** SCRUM, Sprints 15 días, Code Reviews.
+* **Tools:** Jira, Confluence, Postman (Advanced), Swagger/OpenAPI.
+* **Environment:** Linux Console (Zsh/Bash), Azure Key Vault, IntelliJ IDEA.
+
 
 ---
-
 ## 🏗️ Proyectos en los que estoy trabajando
-
----
 
 ### 🏗️ Arquitectura de Sistemas & Cloud Native
 
@@ -71,6 +89,7 @@ Explorando la integración de Inteligencia Artificial en el ciclo de vida del de
 - **LLMs Locales:** Configuración y despliegue de modelos Open Source (**OpenCode**, Llama 3, Mistral) para asegurar la privacidad de los datos y soberanía tecnológica.
 - **AI-Driven Development:** Uso estratégico de herramientas de IA para optimizar la refactorización de código, generación de tests unitarios y documentación técnica.
 
+---
 
 ### ✅ Proyectos Finalizados 2024
 
