@@ -20,25 +20,44 @@ Tengo experiencia trabajando en equipos bajo metodología **SCRUM**, integrando 
 
 ### 🏗️ Proyectos en los que estoy trabajando
 
+#### 🔬 Laboratorio DDD & Hexagonal (Próximamente)
+Proyecto de investigación personal aplicando **Domain-Driven Design (DDD)** y **Arquitectura Hexagonal** para asegurar la máxima desacoplación y testeabilidad del software.
+---
+#### 🔧 [Workshop Management System](https://github.com/arielZarate/GarageManagementSystem)
+Sistema integral para la gestión de talleres mecánicos, enfocado en el control de procesos desde la recepción hasta la entrega.
+
+- **Stack:** Java, Spring Boot, Spring Data JPA, PostgreSQL.
+- **Frontend:** SSR con Thymeleaf y estilizado moderno con Tailwind CSS.
+- **Lógica de Negocio:** Modelado complejo de entidades (Clientes, Vehículos, Órdenes de Reparación y Presupuestos) con flujos de aprobación y estados en tiempo real.
+- **Features Destacadas:** - Consulta pública de estado por patente (License Plate).
+  - Sistema de trazabilidad por legajo de mecánico.
+  - Sincronización programada de datos (Cloud Sync) mediante tareas CRON para backups.
+- **Arquitectura:** Patrón MVC profesional con separación clara de capas (Controller, Service, Repository, DTO).
+
+---
+
+### 🏛️ Arquitectura y Patrones (Proyectos Destacados)
+
+#### [Clean Architecture & Hexagonal Samples](https://github.com/arielZarate/cleanArchitecture)
+Repositorio especializado en la implementación de **Arquitectura Hexagonal (Ports & Adapters)** y **Clean Architecture** para demostrar el desacoplamiento de componentes y alta testeabilidad.
+
+- **Stack:** Java 17+, Kotlin, Spring Boot, MapStruct, JUnit 5 & MockK/Mockito.
+- **Conceptos aplicados:** Inyección de dependencias por constructor, Domain-Driven Design (DDD), manejo de excepciones global y documentación con OpenAPI/Swagger.
+- **Infraestructura:** Docker Compose para entornos simulados y persistencia en PostgreSQL/H2.
+- **Estado:** Demos sanitizadas enfocadas en buenas prácticas y mantenibilidad.
+
+---
+
+
+
+### ✅ Proyectos Finalizados
 #### 🧭 Parking - Sistema Gestor de Estadía
 Sistema para la gestión de vehículos con arquitectura profesional.
 - **Backend:** Java con Spring Boot, Data-JPA, implementación de Patrones de Diseño y Spring Security.
 - **Frontend:** React con Next.js y TypeScript.
-- **Destacado:** Integración de Mercado Pago y diseño basado en diagramas de clases.
-- [Ver Repositorio](https://github.com/arielZarate/projectParkingJavaReact)
+- [Ver Repositorio](https://github.com/arielZarate/ParkingProyectJavaReactV2)
 
-#### 🐾 Mascotas - Proyecto Comunitario
-Plataforma sin fines de lucro para el reencuentro de mascotas.
-- **Stack:** Node.js (Express), React, MySQL y TypeScript.
-- **Funcionalidades:** Auth con JWT, Cloudinary para imágenes y Mercado Pago para donaciones.
-- [Link a la Web](https://adopta.vercel.app/)
 
-#### 🔬 Laboratorio DDD & Hexagonal (Próximamente)
-Proyecto de investigación personal aplicando **Domain-Driven Design (DDD)** y **Arquitectura Hexagonal** para asegurar la máxima desacoplación y testeabilidad del software.
-
----
-
-### ✅ Proyectos Finalizados
 **ChicCloset - Ecommerce de Indumentaria**
 *Colaboración en equipo interdisciplinario.*
 - **Tecnologías:** MERN Stack (Mongo, Express, React, Node), Auth0, Mercado Pago.
@@ -48,7 +67,7 @@ Proyecto de investigación personal aplicando **Domain-Driven Design (DDD)** y *
 
 ### 📫 Contacto e Intereses
 - **Pasatiempos:** Apasionado del Bushcraft, los viajes y la vida al aire libre. 🏕️🏍️
-- **Ubicación:** Córdoba, Argentina. 📍
+- **Ubicación:** Argentina. 📍
 
 <a href="https://www.linkedin.com/in/ariel-zarate-0959184b/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
