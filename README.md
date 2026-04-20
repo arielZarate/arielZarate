@@ -18,25 +18,41 @@ Tengo experiencia trabajando en equipos bajo metodología **SCRUM**, integrando 
 
 ---
 
-### 🏗️ Proyectos en los que estoy trabajando
-
-#### 🔬 Laboratorio DDD & Hexagonal (Próximamente)
-Proyecto de investigación personal aplicando **Domain-Driven Design (DDD)** y **Arquitectura Hexagonal** para asegurar la máxima desacoplación y testeabilidad del software.
----
-#### 🔧 [Workshop Management System](https://github.com/arielZarate/GarageManagementSystem)
-Sistema integral para la gestión de talleres mecánicos, enfocado en el control de procesos desde la recepción hasta la entrega.
-
-- **Stack:** Java, Spring Boot, Spring Data JPA, PostgreSQL.
-- **Frontend:** SSR con Thymeleaf y estilizado moderno con Tailwind CSS.
-- **Lógica de Negocio:** Modelado complejo de entidades (Clientes, Vehículos, Órdenes de Reparación y Presupuestos) con flujos de aprobación y estados en tiempo real.
-- **Features Destacadas:** - Consulta pública de estado por patente (License Plate).
-  - Sistema de trazabilidad por legajo de mecánico.
-  - Sincronización programada de datos (Cloud Sync) mediante tareas CRON para backups.
-- **Arquitectura:** Patrón MVC profesional con separación clara de capas (Controller, Service, Repository, DTO).
+## 🏗️ Proyectos en los que estoy trabajando
 
 ---
 
-### 🏛️ Arquitectura y Patrones (Proyectos Destacados)
+### 🏗️ Arquitectura de Sistemas & Cloud Native
+
+#### 🚀 [Microservices Architecture Lab - E-commerce](https://github.com/arielZarate/microservices-architecture-ecommerce-lab)
+Laboratorio avanzado de diseño de sistemas distribuidos, enfocado en escalabilidad, observabilidad y resiliencia mediante una arquitectura políglota.
+
+- **Stack Técnico:** Java (Spring Boot 3), Kotlin, Node.js (Express) y TypeScript.
+- **Comunicación & Arquitectura:** - Implementación de **Arquitectura Hexagonal** en cada microservicio para desacoplamiento total.
+  - Comunicación asíncrona mediante **Apache Kafka** (event-driven).
+  - API Gateway centralizado para gestión de tráfico.
+- **DevOps & Infraestructura:** - Contenerización con **Docker** y orquestación con **Kubernetes (Minikube)**.
+  - Implementación de patrones de resiliencia (**Retry**) y **Redis** para caching distribuido.
+  - Observabilidad configurada con **Prometheus y Grafana**.
+- **CI/CD:** Automatización de builds y despliegues mediante **GitHub Actions**.
+
+---
+
+
+#### 🔧 [Workshop Management System (Garage)](https://github.com/arielZarate/GarageManagementSystem)
+Sistema integral para la gestión de talleres mecánicos, diseñado para optimizar el flujo desde la recepción hasta la entrega final del vehículo.
+
+- **Stack:** Java, Spring Boot 3, Spring Data JPA y PostgreSQL.
+- **Frontend:** Interfaz administrativa moderna con **Thymeleaf** y **Tailwind CSS**.
+- **Lógica de Negocio:** - Gestión de Órdenes de Reparación y Presupuestos independientes.
+  - Trazabilidad de mecánicos por legajo y control de estados en tiempo real.
+  - Consulta pública de estado del vehículo mediante número de patente.
+- **Infraestructura:** Backups automatizados mediante tareas **CRON** y sincronización JSON.
+- **Arquitectura:** Implementación profesional del patrón **MVC** con separación de responsabilidades y DTOs.
+
+---
+
+### 🏛️ Arquitectura y Patrones (Hexagonal con  DDD) 
 
 #### [Clean Architecture & Hexagonal Samples](https://github.com/arielZarate/cleanArchitecture)
 Repositorio especializado en la implementación de **Arquitectura Hexagonal (Ports & Adapters)** y **Clean Architecture** para demostrar el desacoplamiento de componentes y alta testeabilidad.
@@ -48,9 +64,16 @@ Repositorio especializado en la implementación de **Arquitectura Hexagonal (Por
 
 ---
 
+### 🤖 AI & Generative Engineering
+Explorando la integración de Inteligencia Artificial en el ciclo de vida del desarrollo y aplicaciones finales.
+
+- **Agentes de IA:** Implementación de flujos de trabajo autónomos utilizando agentes para automatización de tareas y análisis de código.
+- **LLMs Locales:** Configuración y despliegue de modelos Open Source (**OpenCode**, Llama 3, Mistral) para asegurar la privacidad de los datos y soberanía tecnológica.
+- **AI-Driven Development:** Uso estratégico de herramientas de IA para optimizar la refactorización de código, generación de tests unitarios y documentación técnica.
 
 
-### ✅ Proyectos Finalizados
+### ✅ Proyectos Finalizados 2024
+
 #### 🧭 Parking - Sistema Gestor de Estadía
 Sistema para la gestión de vehículos con arquitectura profesional.
 - **Backend:** Java con Spring Boot, Data-JPA, implementación de Patrones de Diseño y Spring Security.
