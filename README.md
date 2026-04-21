@@ -4,18 +4,18 @@
 
 Ingeniero de software con sólida experiencia en el ecosistema **JVM (Java/Kotlin)** y el stack **Modern JS (TypeScript, React, Node)**. Mi especialidad es construir servicios altamente escalables para el sector **Fintech**, garantizando la integridad de los datos y el cumplimiento de estándares de arquitectura limpia (**Clean Architecture**).
 
-Actualmente, potencio el ciclo de vida de desarrollo integrando **Agentes de IA** y modelos LLM de código abierto (**OpenCode / Client IA**) para optimizar la eficiencia y la calidad del código.
----
-
+---- 
 ### 🚀 Perfil Profesional & Core Expertise
 
 * **🏦 Fintech & Resilient Engineering:** Implementación de flujos transaccionales con control de **Idempotencia** (Caffeine/Redis), patrones **Retry/Circuit Breaker** e integraciones críticas con **Prisma, Coelsa y Western Union**.
 * **🏗️ Architecture & Patterns:** Aplicación rigurosa de **Clean Architecture** y **Arquitectura Hexagonal**. Experto en diseño por capas: **Domain Model, Repositories, Mappers y DTOs**.
-* **🤖 AI-Driven Development:** Integración de flujos autónomos mediante agentes de IA. Uso de motores LLM como **OpenCode** y **Client IA** para optimización de código y análisis técnico.
+* **🤖 AI-Driven Development:** Integración de flujos autónomos mediante agentes de IA. Uso de motores LLM para optimización de código y análisis técnico.
+  > ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode_LLM-412991?style=flat-square&logo=huggingface&logoColor=white) ![AI_Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square&logo=robot&logoColor=white)
 * **🔭 Observabilidad & Infra:** Monitoreo con **Prometheus, Grafana y Loki**. Gestión de secretos en **Azure Key Vault** y despliegues GitOps con **Argo CD**.
 * **✅ Ciclo de Vida (SDLC):** Testing en entornos de **Dev, Stage y Pre-prod**, operando bajo **SCRUM** (Sprints de 15 días) con Jira y Confluence.
 
 ---
+
 ### 🛠️ Stack Tecnológico & Ecosystem
 
 | **Backend & Core** | **Frontend & Modern JS** | **Cloud, DevOps & AI** |
@@ -35,7 +35,9 @@ Actualmente, potencio el ciclo de vida de desarrollo integrando **Agentes de IA*
 * **Methodologies:** SCRUM, Sprints 15 días, Code Reviews.
 * **Tools:** Jira, Confluence, Postman (Advanced), Swagger/OpenAPI.
 * **Environment:** Linux Console (Zsh/Bash), Azure Key Vault, IntelliJ IDEA.
+  
 
+Actualmente, potencio el ciclo de vida de desarrollo integrando **Agentes de IA** y modelos LLM de código abierto (**OpenCode / ollama / openclaw**) para optimizar la eficiencia y la calidad del código.
 
 ---
 ## 🏗️ Proyectos en los que estoy trabajando
